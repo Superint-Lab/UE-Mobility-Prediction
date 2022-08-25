@@ -1,6 +1,8 @@
 # UE-Mobility-Prediction
 
-## The handover logs have been collected from wireless network of Pangyo ICT Research Center located in Pangyo, Korea. The network consists of 12 Access Points and a system controller. The logs for two months are collected by using syslog program in the controller. Details are as follows.
+## The handover logs have been collected from wireless network of Pangyo ICT Research Center located in Pangyo, Korea. The network consists of 12 Access Points and a system controller. The logs for two months are collected by using syslog program in the controller. 
+
+Details are as follows.
 
 	1. The research center is an area of approximately 1587.74m^2.
 	2. The logs contain handover events for an average of 70 people/users per day
