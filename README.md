@@ -8,9 +8,9 @@ Details are as follows.
 	2. The logs contain handover events for an average of 70 people/users per day
 	3. The total number of logs is 171,141 which are exported in form of CSV files.
 
-For further details about this data please contact.
+Five days of the logs are uploaded in this repository.
 
-E-mail: huigyu@skku.edu
+For further details and more data please contact. E-mail: huigyu@skku.edu
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22449755/186700431-6cb8c49a-9fd0-419a-a1cd-75257c86206d.png" width = "391px" height= "311px"></img>
